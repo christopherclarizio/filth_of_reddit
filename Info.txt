@@ -1,0 +1,19 @@
+===============
+filth_of_reddit
+===============
+REDDIT:
+client_id: SYTLsPErdZx6IA
+client_secret: BCnhIarA9gcg7eQDOKLSyl4i0y0
+
+username: filth_of_reddit
+password: XjXd7WiPJEvGenuc
+
+TWITTER:
+consumer key(API key): 6LNKl5xPLUTLRJhiVTLFpsqpk
+consumer secret(API secret): R7uCotJ4G5lC8XP1Ncq1C8982mkxlq5hO11N5o7E9K8mOk8alX
+
+access token: 872343913092325376-I7qdDATXj5A0bZbWR0IwaTJGwKVKhmw
+access token secret: zhKYBbmdBjohoBd5eq3ZGY2kO4YqOwbk3Bx7SXSDWu3k7
+
+username: filthofreddit@gmail.com
+password: MBSV30MKOpaGaIlU
